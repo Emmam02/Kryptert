@@ -5,10 +5,10 @@ let play = false;
 let newWords = '';
 let randomWords = '';
 let words = [
-    'katt', 'hund', 'esel', 'apekatt', 'hest', 'fisk', 'måke',
-    'ku', 'geit', 'gris', 'løve', 'sjiraff', 'struts', 'surikat',
+    'katt', 'nesehorn', 'krokodille', 'apekatt', 'elefant', 'fisk', 'gepard',
+    'isbjørn', 'geit', 'gris', 'løve', 'sjiraff', 'struts', 'surikat',
     'surikat', 'rødpanda', 'flamingo', 'papegøye', 'skilpadde',
-    'ekorn', 'jerv', 'kamel',
+    'ekorn', 'pandabjørn', 'rumpetroll',
 ]
 
 function createNewWords() {
