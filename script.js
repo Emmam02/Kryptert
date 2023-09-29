@@ -24,9 +24,8 @@ function scrambleWords(array) {
         let j = Math.floor(Math.random() * (i + 1));
         array[i] = array[j];
         array[j] = temp;
-
-        return array;
     }
+    return array;
 }
 
 button.addEventListener('click', buttonClicked)
